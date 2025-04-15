@@ -106,3 +106,45 @@ button {
     font-size: 14px;
 }
 /* 1st Container End */
+
+/* 2nd Container */
+.container-two {
+    display: flex;
+    flex-direction: column;
+    height: 450px;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 40px;
+}
+
+.title {
+    font-size: 28px;
+    font-weight: 900;
+    margin-top: 40px;
+}
+
+.cards {
+    display: flex;
+    gap: 50px;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 150px;
+    gap: 10px;
+}
+
+.card {
+    width: 150px;
+    height: 150px;
+    border: 4px solid rgb(91, 151, 255);
+    border-radius: 16px;
+}
+
+.card-subtext {
+    text-align: center;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+}
