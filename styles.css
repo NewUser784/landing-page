@@ -13,7 +13,7 @@ body {
 /* Header */
 .header {
     display: flex;
-    background-color: rgb(40, 45, 64);
+    background-color: #1F2937;
 }
 
 .logo-container {
@@ -54,7 +54,7 @@ ul a {
 .container-one {
     display: flex;
     align-items: center;
-    background-color: rgb(40, 45, 64);
+    background-color: #1F2937;
     color: white;
     height: 450px;
 }
@@ -227,7 +227,7 @@ footer {
     align-items: center;
     height: 120px;
     color: white;
-    background-color: rgb(40, 45, 64);
+    background-color: #1F2937;
     font-size: 16px;
 }
 /* Footer End */
