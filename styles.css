@@ -148,3 +148,29 @@ button {
     font-size: 14px;
     color: rgb(96, 96, 96);
 }
+/* 2nd Container End */
+
+/* 3rd Container */
+.container-three {
+    display: flex;
+    flex-direction: column;
+    height: 450px;
+    background-color: rgb(228, 228, 228);
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.main-text {
+    width: 1000px;
+    font-size: 32px;
+    color: rgb(68, 68, 68);
+    font-style: italic;
+}
+
+.author {
+    font-size: 22px;
+    color: rgb(68, 68, 68);
+    font-weight: 700;
+    margin-left: 600px;
+}
