@@ -29,9 +29,13 @@ body {
     font-weight: 900;
 }
 
-.header ul {
+.header-links {
     display: flex;
     flex: 1;
+}
+
+.header ul {
+    display: flex;
     justify-content: center;
     align-items: center;
     list-style: none;
